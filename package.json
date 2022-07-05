@@ -1,0 +1,23 @@
+{
+  "name": "simon-game-tda-jest",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DioCar84/Simon-Game-TDA-Jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DioCar84/Simon-Game-TDA-Jest/issues"
+  },
+  "homepage": "https://github.com/DioCar84/Simon-Game-TDA-Jest#readme",
+  "devDependencies": {
+    "jest": "^28.1.2",
+    "jest-environment-jsdom": "^28.1.2"
+  }
+}
